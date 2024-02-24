@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EDlUZbHWZ7UL2yyQEQrZRWe0d1LGS6rCSfVWKN+Alhz2i1nKcqy6Tmr8M2ozji+1gQU7+0lXAiGsn45ZbQekgg==",
+  "success": true,
+  "projectFilePath": "C:\\ANDERSON\\Android Anderson\\Android Anderson.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
